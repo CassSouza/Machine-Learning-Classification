@@ -7,7 +7,9 @@ The __['data.csv'](https://github.com/CassSouza/Machine-Learning-Classification/
 ## Machine Learning Algorithms 
 Machine learning algorithms available:
 
-+ __[SVM](https://github.com/CassSouza/Machine-Learning-Classification/tree/main/SVM)__ 
++ __[SVM](https://github.com/CassSouza/Machine-Learning-Classification/tree/main/SVM)__ (Support Vector Machine) `SVC classifier`
+
++ __[ANN](https://github.com/CassSouza/Machine-Learning-Classification/tree/main/ANN)__ (Artificial Neural Network - Multi-layer Perceptron) `MLP classifier`
 
 Inside each folder, there is a .ipynb file with the complete pipeline to build a machine learning model: load the data, build the classification model, and generate the evaluation plots (confusion matrix, Precision-Recall curve, and ROC curve). The evaluation plots can be seen in the .ipynb itself or inside the 'Outputs' folder that are present inside each model folder.  
 

@@ -1,5 +1,5 @@
 # Machine Learning Classification
-Pipeline for classifying samples using different machine learning algorithms, and plots for visualizing and analyzing the results.
+Pipeline for classify samples using different machine learning algorithms, and plots for visualize and analyze the results.
 
 ## About the data
 The __['data.csv'](https://github.com/CassSouza/Machine-Learning-Classification/tree/main/Database)__ dataframe consist of real world data that has been subjected to a clr (centered log-ratio) transformation. Labels and features have had their names changed to generic names in order to preserve the source of the data.
